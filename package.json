@@ -1,0 +1,28 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "for test and study",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "b": "babel-node",
+    "build": "babel src -d dist ",
+    "ts": "ts-node"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "ts-node": "^5.0.0",
+    "typescript": "^2.7.2"
+  },
+  "dependencies": {
+    "async-lock": "^1.1.2",
+    "axios": "^0.18.0",
+    "co": "^4.6.0",
+    "koa": "^2.3.0",
+    "lodash": "^4.17.5",
+    "mssql": "^5.0.5"
+  }
+}

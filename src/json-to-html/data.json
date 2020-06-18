@@ -1,0 +1,296 @@
+[
+  {
+    "value": "AGX",
+    "label": "AGX - AGTEX",
+    "labelCn": "AGX - AGTEX",
+    "labelEn": "AGX - AGTEX",
+    "active": "Y"
+  },
+  {
+    "value": "CAP",
+    "label": "CAP - CENTRE OF ACCESSORIES PURCHASING",
+    "labelCn": "GET辅料采购部",
+    "labelEn": "CAP - CENTRE OF ACCESSORIES PURCHASING",
+    "active": "Y"
+  },
+  {
+    "value": "CEG",
+    "label": "CEG - CHANGZHOU ESQUEL GARMENT CO. LTD",
+    "labelCn": "常州溢达服装有限公司(CEG)",
+    "labelEn": "CEG - CHANGZHOU ESQUEL GARMENT CO. LTD",
+    "active": "Y"
+  },
+  {
+    "value": "CEK",
+    "label": "CEK - CHANGZHOU ESQUEL KNITTING APPAREL CO. LTD",
+    "labelCn": "常州溢达针织品有限公司(CEK)",
+    "labelEn": "CEK - CHANGZHOU ESQUEL KNITTING APPAREL CO. LTD",
+    "active": "Y"
+  },
+  {
+    "value": "CYKG",
+    "label": "CHEUNG YUE KNITTING GARMENT LTD",
+    "labelCn": "CHEUNG YUE KNITTING GARMENT LTD",
+    "labelEn": "CHEUNG YUE KNITTING GARMENT LTD",
+    "active": "Y"
+  },
+  {
+    "value": "EAL",
+    "label": "EAL - ESQUEL APPAREL LIMITED",
+    "labelCn": "EAL - ESQUEL APPAREL LIMITED",
+    "labelEn": "EAL - ESQUEL APPAREL LIMITED",
+    "active": "Y"
+  },
+  {
+    "value": "ECH",
+    "label": "ECH - ESQUEL CHINA HOLDINGS LIMITED",
+    "labelCn": "溢达中国控股有限公司",
+    "labelEn": "ECH - ESQUEL CHINA HOLDINGS LIMITED",
+    "active": "Y"
+  },
+  {
+    "value": "EEL",
+    "label": "EEL - ESQUEL ENTERPRISES LTD",
+    "labelCn": "EEL - ESQUEL ENTERPRISES LTD",
+    "labelEn": "EEL - ESQUEL ENTERPRISES LTD",
+    "active": "Y"
+  },
+  {
+    "value": "EGK",
+    "label": "EGK - EASTERN GARMENT MANUFACTURING CO. (KELANTAN) SDN. BHD",
+    "labelCn": "EGK - EASTERN GAREMNT MANUFACTURING CO. (KELANTAN)",
+    "labelEn": "EGK - EASTERN GARMENT MANUFACTURING CO. (KELANTAN) SDN. BHD",
+    "active": "Y"
+  },
+  {
+    "value": "EGM",
+    "label": "EGM - ESQUEL MALAYSIA SDN. BERHAD",
+    "labelCn": "EGM - ESQUEL MALAYSIA SDN. BERHAD",
+    "labelEn": "EGM - ESQUEL MALAYSIA SDN. BERHAD",
+    "active": "Y"
+  },
+  {
+    "value": "EGV",
+    "label": "EGV - ESQUEL GARMENT MANUFACTURING (VIETNAM) CO. LTD",
+    "labelCn": "EGV - ESQUEL GARMENT MANUFACTURING (VIETNAM) CO. LTD",
+    "labelEn": "EGV - ESQUEL GARMENT MANUFACTURING (VIETNAM) CO. LTD",
+    "active": "Y"
+  },
+  {
+    "value": "EKV",
+    "label": "EKV - ESQUEL EKV. (KNITTING)",
+    "labelCn": "EKV - ESQUEL EKV. (KNITTING)",
+    "labelEn": "EKV - ESQUEL EKV. (KNITTING)",
+    "active": "Y"
+  },
+  {
+    "value": "EE",
+    "label": "ENGINEERING EXCELLENCE",
+    "labelCn": "ENGINEERING EXCELLENCE",
+    "labelEn": "ENGINEERING EXCELLENCE",
+    "active": "Y"
+  },
+  {
+    "value": "EPP",
+    "label": "EPP - EASTERN GARMENT MANUFACTURING CO. SDN. BHD. PAPER PRODUCT FACTORY",
+    "labelCn": "EPP - EASTERN GARMENT MANUFACTURING CO. SDN. BHD. PAPER PRODUCT FACTORY",
+    "labelEn": "EPP - EASTERN GARMENT MANUFACTURING CO. SDN. BHD. PAPER PRODUCT FACTORY",
+    "active": "Y"
+  },
+  {
+    "value": "TIL",
+    "label": "ESQUEL (MAURITIUS) LTD",
+    "labelCn": "ESQUEL (MAURITIUS) LTD",
+    "labelEn": "ESQUEL (MAURITIUS) LTD",
+    "active": "Y"
+  },
+  {
+    "value": "EAPP",
+    "label": "ESQUEL ACCESSORIES AND PACKAGING (EAP LABEL PRINTING)",
+    "labelCn": "广东溢达纺织有限公司辅料商标印刷厂",
+    "labelEn": "ESQUEL ACCESSORIES AND PACKAGING (EAP LABEL PRINTING)",
+    "active": "Y"
+  },
+  {
+    "value": "EAPL",
+    "label": "ESQUEL ACCESSORIES AND PACKAGING (EAP LABEL)",
+    "labelCn": "广东溢达纺织有限公司辅料商标厂",
+    "labelEn": "ESQUEL ACCESSORIES AND PACKAGING (EAP LABEL)",
+    "active": "Y"
+  },
+  {
+    "value": "EAP",
+    "label": "ESQUEL ACCESSORIES AND PACKAGING (EAP)",
+    "labelCn": "广东溢达纺织有限公司辅料包装厂",
+    "labelEn": "ESQUEL ACCESSORIES AND PACKAGING (EAP)",
+    "active": "Y"
+  },
+  {
+    "value": "EAPT",
+    "label": "ESQUEL ACCESSORIES AND PACKAGING (EAPT)",
+    "labelCn": "广东溢达纺织有限公司辅料绳带厂",
+    "labelEn": "ESQUEL ACCESSORIES AND PACKAGING (EAPT)",
+    "active": "Y"
+  },
+  {
+    "value": "EEM",
+    "label": "ESQUEL ENTERPRISES MACAO COMMERCIAL OFFSHORE LIMITED",
+    "labelCn": "ESQUEL ENTERPRISES MACAO COMMERCIAL OFFSHORE LIMITED",
+    "labelEn": "ESQUEL ENTERPRISES MACAO COMMERCIAL OFFSHORE LIMITED",
+    "active": "Y"
+  },
+  {
+    "value": "EHV",
+    "label": "ESQUEL GARMENT MANUFACTURING VIETNAM - HOA BINH CO., LTD",
+    "labelCn": "ESQUEL GARMENT MANUFACTURING VIETNAM - HOA BINH CO., LTD",
+    "labelEn": "ESQUEL GARMENT MANUFACTURING VIETNAM - HOA BINH CO., LTD",
+    "active": "Y"
+  },
+  {
+    "value": "EAV",
+    "label": "ESQUEL GARMENT MANUFACTURING VIETNAM – DONGNAI COMPANY LIMITED",
+    "labelCn": "ESQUEL GARMENT MANUFACTURING VIETNAM – DONGNAI COMPANY LIMITED",
+    "labelEn": "ESQUEL GARMENT MANUFACTURING VIETNAM – DONGNAI COMPANY LIMITED",
+    "active": "Y"
+  },
+  {
+    "value": "GEG",
+    "label": "GEG - GUANGDONG ESQUEL TEXTILES CO., LTD. GARMENT FACTORY",
+    "labelCn": "广东溢达纺织有限公司制衣厂",
+    "labelEn": "GEG - GUANGDONG ESQUEL TEXTILES CO., LTD. GARMENT FACTORY",
+    "active": "Y"
+  },
+  {
+    "value": "GEK",
+    "label": "GEK - GUANGDONG ESQUEL TEXTILES CO. LTD. (KNITTING)",
+    "labelCn": "广东溢达纺织有限公司针织布厂(GEK)",
+    "labelEn": "GEK - GUANGDONG ESQUEL TEXTILES CO. LTD. (KNITTING)",
+    "active": "Y"
+  },
+  {
+    "value": "GES",
+    "label": "GES",
+    "labelCn": "GES",
+    "labelEn": "GES",
+    "active": "Y"
+  },
+  {
+    "value": "GEW",
+    "label": "GEW - GUANGDONG ESQUEL TEXTILES CO. LTD. (WEAVING)",
+    "labelCn": "广东溢达纺织有限公司梭织布厂(GEW)",
+    "labelEn": "GEW - GUANGDONG ESQUEL TEXTILES CO. LTD. (WEAVING)",
+    "active": "Y"
+  },
+  {
+    "value": "GLG",
+    "label": "GLG - GUILIN ESQUEL TEXTILES CO. LTD. GARMENT FACTORY",
+    "labelCn": "桂林溢达纺织有限公司制衣厂",
+    "labelEn": "GLG - GUILIN ESQUEL TEXTILES CO. LTD. GARMENT FACTORY",
+    "active": "Y"
+  },
+  {
+    "value": "GLS",
+    "label": "GLS - GUILIN ESQUEL TEXTILES CO. LTD. SPECIALTY SPINNING FACTORY",
+    "labelCn": "桂林溢达纺织有限公司特纺厂",
+    "labelEn": "GLS - GUILIN ESQUEL TEXTILES CO. LTD. SPECIALTY SPINNING FACTORY",
+    "active": "Y"
+  },
+  {
+    "value": "GLE",
+    "label": "GUILIN ESQUEL TEXTILES CO. LTD",
+    "labelCn": "桂林溢达纺织有限公司",
+    "labelEn": "GUILIN ESQUEL TEXTILES CO. LTD",
+    "active": "Y"
+  },
+  {
+    "value": "VMH",
+    "label": "MAY HAI JOINT STOCK COMPANY",
+    "labelCn": "MAY HAI JOINT STOCK COMPANY",
+    "labelEn": "MAY HAI JOINT STOCK COMPANY",
+    "active": "Y"
+  },
+  {
+    "value": "MDN",
+    "label": "MINDUN GARMENT FACTORY",
+    "labelCn": "绵登制衣厂",
+    "labelEn": "MINDUN GARMENT FACTORY",
+    "active": "Y"
+  },
+  {
+    "value": "NBO",
+    "label": "NBO - NINGBO ESQUEL APPAREL CO. LTD",
+    "labelCn": "宁波溢达服装有限公司(NBO)",
+    "labelEn": "NBO - NINGBO ESQUEL APPAREL CO. LTD",
+    "active": "Y"
+  },
+  {
+    "value": "OMD",
+    "label": "OMD-ORDER MANAGERMENT DEPARTMENT",
+    "labelCn": "OMD-ORDER MANAGERMENT DEPARTMENT",
+    "labelEn": "OMD-ORDER MANAGERMENT DEPARTMENT",
+    "active": "Y"
+  },
+  {
+    "value": "OFTY",
+    "label": "OUTSIDE FTY",
+    "labelCn": "OUTSIDE FTY",
+    "labelEn": "OUTSIDE FTY",
+    "active": "Y"
+  },
+  {
+    "value": "PTX",
+    "label": "PTX - ESQUEL SRI LANKA LTD",
+    "labelCn": "PTX - ESQUEL SRI LANKA LTD",
+    "labelEn": "PTX - ESQUEL SRI LANKA LTD",
+    "active": "Y"
+  },
+  {
+    "value": "PVH",
+    "label": "PVH-BRANDIX CASUALWEAR BANGLADESH LTD",
+    "labelCn": "Bangladesh",
+    "labelEn": "PVH-BRANDIX CASUALWEAR BANGLADESH LTD",
+    "active": "Y"
+  },
+  {
+    "value": "SGC",
+    "label": "SOUTH GOLD GARMENT CORP.",
+    "labelCn": "SGC - SOUTH GOLD GARMENT CORP.",
+    "labelEn": "SOUTH GOLD GARMENT CORP.",
+    "active": "Y"
+  },
+  {
+    "value": "TDC",
+    "label": "TECHNICAL DEVELOPMENT CENTER (TDC)",
+    "labelCn": "TECHNICAL DEVELOPMENT CENTER (TDC)",
+    "labelEn": "TECHNICAL DEVELOPMENT CENTER (TDC)",
+    "active": "Y"
+  },
+  {
+    "value": "TEG",
+    "label": "TEG - TAIZHOU ESQUEL GARMENT CO. LTD",
+    "labelCn": "泰州溢达服装有限公司",
+    "labelEn": "TEG - TAIZHOU ESQUEL GARMENT CO. LTD",
+    "active": "Y"
+  },
+  {
+    "value": "VTN",
+    "label": "VIETTIEN GARMENT CORP\r\n",
+    "labelCn": "VIETTIEN GARMENT CORP\r\n",
+    "labelEn": "VIETTIEN GARMENT CORP\r\n",
+    "active": "Y"
+  },
+  {
+    "value": "WYG",
+    "label": "WYG - WAY YAT INDUSTRIAL LTD",
+    "labelCn": "惠溢实业有限公司(WYG)",
+    "labelEn": "WYG - WAY YAT INDUSTRIAL LTD",
+    "active": "Y"
+  },
+  {
+    "value": "YMG",
+    "label": "YMG - GUANGDONG ESQUEL TEXTILES CO., LTD. YANGMEI GARMENT FACTORY",
+    "labelCn": "广东溢达纺织有限公司杨梅分厂",
+    "labelEn": "YMG - GUANGDONG ESQUEL TEXTILES CO., LTD. YANGMEI GARMENT FACTORY",
+    "active": "Y"
+  }
+]
